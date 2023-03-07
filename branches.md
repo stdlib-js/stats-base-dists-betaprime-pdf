@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/betaprime/pdf"
-click B href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/betaprime/pdf"
+%% click B href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-dists-betaprime-pdf/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/betaprime/pdf
