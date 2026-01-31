@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-04-29)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
@@ -34,8 +34,10 @@ This release closes the following issue:
 
 <details>
 
--   [`e8dea99`](https://github.com/stdlib-js/stdlib/commit/e8dea9975e4b6fa5b11e6bfbf90f92af904b6786) - **bench:** update random value generation [(#6842)](https://github.com/stdlib-js/stdlib/pull/6842) _(by Harsh)_
--   [`b59ce6f`](https://github.com/stdlib-js/stdlib/commit/b59ce6ffab63e0027ac910b7c91a9082edea925e) - **docs:** replace manual `for` loop in examples [(#6831)](https://github.com/stdlib-js/stdlib/pull/6831) _(by Harsh)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`e8dea99`](https://github.com/stdlib-js/stdlib/commit/e8dea9975e4b6fa5b11e6bfbf90f92af904b6786) - **bench:** update random value generation [(#6842)](https://github.com/stdlib-js/stdlib/pull/6842) _(by Harsh Yadav)_
+-   [`b59ce6f`](https://github.com/stdlib-js/stdlib/commit/b59ce6ffab63e0027ac910b7c91a9082edea925e) - **docs:** replace manual `for` loop in examples [(#6831)](https://github.com/stdlib-js/stdlib/pull/6831) _(by Harsh Yadav)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`88e00d0`](https://github.com/stdlib-js/stdlib/commit/88e00d0a5088bc65bcf54b303fa774f9d382629b) - **feat:** add C implementation for `stats/base/dists/betaprime/pdf` [(#4057)](https://github.com/stdlib-js/stdlib/pull/4057) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`68894a1`](https://github.com/stdlib-js/stdlib/commit/68894a16cc999587091fdc3b014d21b64d3dde79) - **bench:** refactor random number generation in `stats/base/dists/betaprime` [(#4840)](https://github.com/stdlib-js/stdlib/pull/4840) _(by Karan Anand)_
@@ -52,7 +54,7 @@ This release closes the following issue:
 
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
