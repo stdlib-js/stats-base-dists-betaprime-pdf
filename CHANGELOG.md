@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-03)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8842552`](https://github.com/stdlib-js/stdlib/commit/884255265619ee97385a996f5444d6a437c789a1) - **bench:** refactor to use string interpolation in `stats/base/dists/betaprime` [(#10050)](https://github.com/stdlib-js/stdlib/pull/10050) _(by Harsh Yadav)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Harsh Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-31)
