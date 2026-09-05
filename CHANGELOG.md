@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-05)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b9ef8b3`](https://github.com/stdlib-js/stdlib/commit/b9ef8b39c85630518864e49f0cbb7b0df0609214) - **test:** migrate `stats/base/dists/betaprime/pdf` to ULP-based assertions [(#15011)](https://github.com/stdlib-js/stdlib/pull/15011) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
